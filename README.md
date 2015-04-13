@@ -15,7 +15,7 @@
 - [Programming JavaScript applications [book]](https://ericelliottjs.com/product/programming-javascript-applications-paper-ebook-bundle/)
 - [JavaScript: The Definitive Guide [book]](http://www.amazon.com/gp/product/0596805527/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596805527&linkCode=as2&tag=ericleads-20&linkId=HUKGG4O7ZORE6LTQ)
 - [Delivering the Goods [video]](https://www.youtube.com/watch?v=R8W_6xWphtw)
-- [ECMAScript 6](https://leanpub.com/understandinges6/read)
+- [ECMAScript 6 [online book]](https://leanpub.com/understandinges6/read)
 - [Scope & Closures [safaribooks]](https://www.safaribooksonline.com/library/view/scope-and-closures/9781449335571/)
 - [JavaScript Allongé [online book]](https://leanpub.com/javascript-allonge/read)
 - [JavaScript Design Patterns [online book]](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
