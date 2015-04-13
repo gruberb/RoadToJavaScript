@@ -22,5 +22,16 @@
 
 ##Frameworks
 
-###AngularJS
+###AngularJS 1.x
 - [AngularJS Fundamentals[video tutorial]](https://egghead.io/series/angularjs-app-from-scratch-getting-started)
+- [AngularJS Application architecture [Video tutorial]](https://egghead.io/series/angularjs-application-architecture)
+- [AngularJS DataModelling [Video tutorial]](https://egghead.io/series/angularjs-data-modeling)
+- [PhoneGap tutorial [Text tutorial]](https://docs.angularjs.org/tutorial)
+- [Practical guide to directives [text]](http://www.sitepoint.com/practical-guide-angularjs-directives/)
+- [AngularJS directives [text]](http://www.ng-newsletter.com/posts/directives.html)
+- [REST and Factories [text]](http://weblogs.asp.net/dwahlin/using-an-angularjs-factory-to-interact-with-a-restful-service)
+- [Basics of ui-routing[text]](http://joelhooks.com/blog/2013/07/22/the-basics-of-using-ui-router-with-angularjs/)
+- [Advanced routing and resolves[text]](https://medium.com/opinionated-angularjs/advanced-routing-and-resolves-a2fcbf874a1c)
+- [Code organisation in AngularJS[text]](https://medium.com/opinionated-angularjs/scalable-code-organization-in-angularjs-9f01b594bf06)
+- [Boilerplate [code]](http://joshdmiller.github.io/ng-boilerplate/#/home)
+- [Modular AngularJS - boilerplate [code][code]](https://github.com/colintoh/modular-angular)
