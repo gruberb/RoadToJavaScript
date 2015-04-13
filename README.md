@@ -1,5 +1,6 @@
 ##Road to JavaScript
 
+###Basic understanding
 - [Learn JavaScript Essentials](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2)
 - [JavaScript Training Sucks](https://medium.com/javascript-scene/javascript-training-sucks-284b53666245)
 - [Two Pillars of JavaScript - Part 1 OO](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
@@ -18,3 +19,8 @@
 - [Scope & Closures [safaribooks]](https://www.safaribooksonline.com/library/view/scope-and-closures/9781449335571/)
 - [JavaScript Allongé [online book]](https://leanpub.com/javascript-allonge/read)
 - [JavaScript Design Patterns [online book]](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+##Frameworks
+
+###AngularJS
+- [AngularJS Fundamentals[video tutorial]](https://egghead.io/series/angularjs-app-from-scratch-getting-started)
