@@ -38,6 +38,7 @@
 
 ### ReactJS and Flux (how I've learned it)
 I am suggesting to buy a one month premium account at egghead.io. This was the best ressource I could found. There are so many blog posts out there, and the courses there were the best.
+
 1. Go through the course [React Fundamentals](https://egghead.io/series/react-fundamentals)
 2. Afterwards, build your first ReactJS app witht this (updadet) egghead.io video: [Build your first ReactJS app](https://egghead.io/series/build-your-first-react-js-application)
 2. Get a first sense of ES6: [ES6 in 350 bullet points](https://ponyfoo.com/articles/es6)
