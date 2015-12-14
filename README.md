@@ -35,3 +35,14 @@
 - [Code organisation in AngularJS [text]](https://medium.com/opinionated-angularjs/scalable-code-organization-in-angularjs-9f01b594bf06)
 - [Boilerplate [code]](http://joshdmiller.github.io/ng-boilerplate/#/home)
 - [Modular AngularJS - boilerplate [code]](https://github.com/colintoh/modular-angular)
+
+### ReactJS and Flux (how I've learned it)
+I am suggesting to buy a one month premium account at egghead.io. This was the best ressource I could found. There are so many blog posts out there, and the courses there were the best.
+1. Go through the course [React Fundamentals](https://egghead.io/series/react-fundamentals)
+2. Afterwards, build your first ReactJS app witht this (updadet) egghead.io video: [Build your first ReactJS app](https://egghead.io/series/build-your-first-react-js-application)
+2. Get a first sense of ES6: [ES6 in 350 bullet points](https://ponyfoo.com/articles/es6)
+3. Pick a little side project idea which you can finish in 2-3 days and think about how you would implement it (~ 1 hour)
+4. Read this medium article about Flux: [What is the Flux architecture?](https://medium.com/brigade-engineering/what-is-the-flux-application-architecture-b57ebca85b9e#.yk7emu5su)
+5. Watch the egghead.io course: [Flux Architecture (ES6)](https://egghead.io/series/react-flux-architecture-es6)
+
+
